@@ -9,6 +9,7 @@
 **Information about myself:** I'm a 21 years old  from Minsk, Belarus. Now I live in Warsaw. I've never done any programming before, but I was very interested in it and I decided to try it. I am ready to put all my efforts into achieving success. I always strive to learn something new. I have good communication skills, I like to communicate with people and solve tasks together.
 
 **Skills:**
+
 | Skill   |      Set      |
 |----------|:-------------:|
 | Program Languages |  HTML, CSS, JavaScript (Basic) |
