@@ -11,7 +11,7 @@
 **Skills:**
 
 | Skill   |      Set      |
-|----------|:-------------:|
+|---------|---------------|
 | Program Languages |  HTML, CSS, JavaScript (Basic) |
 | Operating Systems |    Windows   |
 | Other Skills | Git, Visual Studio Code, Photoshop, Base Windows Commands |
